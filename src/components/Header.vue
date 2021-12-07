@@ -42,7 +42,7 @@
             <router-link
               class="nav-link active"
               aria-current="page"
-              to="/signip"
+              to="/signup"
               ><button class="btn btn-outline-warning text-dark">
                 Sign Up
               </button></router-link
@@ -52,7 +52,7 @@
             <router-link
               class="nav-link active"
               aria-current="page"
-              to="/signip"
+              to="/signup"
               ><button class="btn btn-warning">Log Out</button></router-link
             >
           </li>
