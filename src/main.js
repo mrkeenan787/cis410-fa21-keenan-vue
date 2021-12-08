@@ -9,4 +9,5 @@ axios.defaults.baseURL = "https://cis410-fa21-keenan-api.azurewebsites.net";
 
 const myApp = createApp(App);
 myApp.use(myRouter);
+myApp.use(theStore);
 myApp.mount("#app");
