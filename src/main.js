@@ -3,6 +3,7 @@ import App from "./App.vue";
 import axios from "axios";
 
 import myRouter from "./routes.js";
+import theStore from "./store.js";
 
 axios.defaults.baseURL = "https://cis410-fa21-keenan-api.azurewebsites.net";
 
