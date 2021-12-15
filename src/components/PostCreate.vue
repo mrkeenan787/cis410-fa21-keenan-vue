@@ -92,6 +92,3 @@ button {
   margin-right: 5px;
 }
 </style>
-
-// let Price = req.body.Price; // let Location = req.body.Location; // let
-ContactFK = req.body.ContactFK; // let SkiFK = req.body.SkiFK;
