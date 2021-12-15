@@ -31,6 +31,10 @@
         Sign In to Add a Post
       </button></router-link
     >
+
+    <br />
+    <br />
+    <router-view />
   </div>
 </template>
 
